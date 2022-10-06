@@ -6,5 +6,4 @@ This is a codebase for the manuscript "Total calcium, dairy foods, and risk of c
 
 For the macros used in these codes, please refer to Cohortdocs on the Channing website.
 For more information, please visit https://www.nurseshealthstudy.org/researchers (contact email: nhsaccess@channing.harvard.edu)
-
-
+Variables used in these codes are based on questionnaires (sent out every 2 years; for dietary information, food frequency questionnaires sent out every 4 years). 
